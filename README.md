@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently working on **Curavox – AI-powered healthcare chatbot**
 - 👯 Looking to collaborate on **AI-based & full-stack applications**
@@ -32,17 +32,18 @@
 
 ---
 
-### 💡 GitHub Insights
-<details>
-<summary><b>Click to expand</b></summary>
+## 🚀 Featured Project
+### 🏥 Curavox – AI Healthcare Chatbot
+- AI-powered chatbot for patient assistance
+- Built using Node.js, Express & LLM APIs
+- Focused on real-world healthcare solutions
 
-<br>
+👉 [View Project](https://github.com/amnashah4221/curavox-health-assistant.git)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khansaaamir&theme=aura)
+---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khansaaamir&theme=aura)
 
-</details>
 
 ---
 
