@@ -12,10 +12,6 @@
 </a>
 <br/>
 
-<a href="https://github.com/khansaaamir">
-    <img src="https://github-stats-alpha.vercel.app/api?username=khansaaamir&cc=22272e&tc=ffffff&ic=00c2ff&bc=0000">
-</a>
-
 </p>
 
 ---
