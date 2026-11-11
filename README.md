@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/khansaaamir">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=800&pause=800&color=00C2FF&center=true&multiline=true&width=650&height=80&lines=Khansa+Aamir;Final+Year+CS+Student+%7C+Aspiring+Software+Engineer;AI+%7C+Healthcare+Tech+%7C+Backend+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=800&pause=800&color=00C2FF&center=true&multiline=true&width=650&height=80&lines=Khansa+Aamir;Computer+Science+Graduate+%7C+Aspiring+Software+Engineer;AI+%7C+Healthcare+Tech+%7C+Backend+Development" alt="Typing SVG" />
 </a>
 <br/>
 
