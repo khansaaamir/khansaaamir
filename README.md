@@ -1,14 +1,14 @@
 <p align="center">
 <a href="https://github.com/khansaaamir">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=800&pause=800&color=00C2FF&center=true&multiline=true&width=650&height=80&lines=Khansa+Aamir;Computer+Science+Graduate+%7C+Aspiring+Software+Engineer;AI+%7C+Healthcare+Tech+%7C+Backend+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=800&color=00C2FF&center=true&multiline=true&width=650&height=80&lines=Khansa+Aamir;Computer+Science+Graduate+%7C+Aspiring+Software+Engineer;AI+%7C+Healthcare+Tech+%7C+Backend+Development" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://www.linkedin.com/in/khansa-aamir-4a006224b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square">
 </a>
 <a href="mailto:kalhr2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square">
 </a>
 <br/>
 
